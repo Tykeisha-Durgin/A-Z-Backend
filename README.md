@@ -1,4 +1,4 @@
 # amazon-backend
 
 
-[LIVE DEMO] (https://amazon-backend.anugrahmasihapp.repl.co/).  here!!
+[LIVE DEMO] (http://a-z-backend.tydurgin.repl.co/).  here!!
