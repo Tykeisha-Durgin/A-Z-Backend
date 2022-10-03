@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "repl_nix_amazon-backend"
+version = "0.1.0"
+description = ""
+authors = ["Replit user <<>>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pytz = "^2022.4"
+cloudinary = "^1.30.0"
+Django = "^4.1.1"
+django-filter = "^22.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
